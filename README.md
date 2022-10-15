@@ -1,5 +1,5 @@
 # Experiment-2--Implementation-of-Perceptron
-##AIM:
+### AIM:
 
 To implement a perceptron for classification using Python
 
@@ -23,7 +23,7 @@ A threshold function, usually Heaviside or sign functions, maps the scalar value
 Indeed if the neuron output is exactly zero it cannot be assumed that the sample belongs to the first sample since it lies on the boundary between the two classes. Nonetheless for the sake of simplicity,ignore this situation.
 
 
-ALGORITHM:
+### ALGORITHM:
 Importing the libraries
 Importing the dataset
 Plot the data to verify the linear separable dataset and consider only two classes
@@ -41,7 +41,8 @@ For ‘N ‘ iterations ,do the following:
 Plot the error for each iteration 
 Print the accuracy
 
-
+### DEVELOPED BY: PALAMAKULA DEEPIKA
+### REG NO: 212221240035
  ### PROGRAM:
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  import numpy as np
